@@ -1,5 +1,11 @@
 # @astrojs/starlight
 
+## 0.34.3
+
+### Patch Changes
+
+- [#3058](https://github.com/withastro/starlight/pull/3058) [`274cc06`](https://github.com/withastro/starlight/commit/274cc06112824384771b944f504ab0faab45e2b9) Thanks [@techfg](https://github.com/techfg)! - Fixes display of focus indicator around site title
+
 ## 0.34.2
 
 ### Patch Changes
